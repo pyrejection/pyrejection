@@ -1,0 +1,7 @@
+version: '3.4'
+services:
+  jupyter:
+    image: "${BASE_IMAGE_NAME}-prod"
+    build:
+      target: prod_image
+    restart: unless-stopped
