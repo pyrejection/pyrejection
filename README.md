@@ -1,3 +1,5 @@
+# IMPORTANT: The canonical repository for this code is now located at: https://github.com/ben-denham/pyrejection
+
 # PyRejection
 
 Contains source-code for experimentation on classification with
